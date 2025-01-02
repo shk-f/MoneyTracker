@@ -21,3 +21,14 @@ CSS: For styling the app’s components.
 Fetch API: For making requests to the backend API to retrieve and submit transactions.
 
 MongoDB (Backend): The app interacts with a MongoDB database to store transaction data.
+
+![image](https://github.com/user-attachments/assets/23f8bac8-6f30-46e9-8772-8cae19bb4b2f)
+
+![image](https://github.com/user-attachments/assets/0f416cc7-d28f-416c-893c-ae38215d4d97)
+
+![image](https://github.com/user-attachments/assets/3b820956-0204-4ec5-9fec-38fc3d58ce96)
+
+![image](https://github.com/user-attachments/assets/3f19f964-c97a-4273-9531-7d27723c6b1a)
+
+
+
