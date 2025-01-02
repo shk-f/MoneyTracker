@@ -1,7 +1,9 @@
 Transaction Tracker App
+
 A simple transaction tracking app built with React that allows users to add transactions, view the transaction history, and calculate the current balance. The app is connected to a backend API for handling transaction data.
 
-Features
+Features:
+
 Add Transactions: Users can add transactions with details like price, name, description, and date/time.
 Transaction History: View a list of all transactions with the price, description, and date/time of each.
 Balance Calculation: The app automatically calculates and displays the current balance by summing all transactions.
